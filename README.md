@@ -59,12 +59,15 @@ def max_marks(marks):
 
 ## Output:
 i)
+
 ![image](https://github.com/IMRAAN2005/FindMaximum/assets/149347407/62ed6624-242d-4207-aa52-8713f9db1415)
 
 ii)
+
 ![image](https://github.com/IMRAAN2005/FindMaximum/assets/149347407/6a4781f9-3d7f-4100-8e12-72a9ce43b09b)
 
 iii)
+
 ![image](https://github.com/IMRAAN2005/FindMaximum/assets/149347407/a27399f4-142c-4a66-b4ee-a69d79dcbcef)
 
 
